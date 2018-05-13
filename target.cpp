@@ -1,3 +1,6 @@
+//Target programm for memory reading
+
+
 #include <iostream>
 #include <conio.h>
 
